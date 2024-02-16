@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173740871892",
+    "firebase_url": "https://cabai-f6c80-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cabai-f6c80",
+    "storage_bucket": "cabai-f6c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173740871892:android:f8fe6bdf3d4d48b8a72b41",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexDZo54C4vKoLladXLg3efUiMZYFaf08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
